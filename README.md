@@ -1,2 +1,2 @@
 # algesite
-alge.justwhatever.net
+Source code for https://alge.justwhatever.net
