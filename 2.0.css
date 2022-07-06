@@ -1,0 +1,21 @@
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+.followcount {
+    font-size: 25px;
+}
+
+h3 span {
+    width: 100px;
+}
+
+p {
+    font-size: 32px;
+}

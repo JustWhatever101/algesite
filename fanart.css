@@ -1,0 +1,27 @@
+.grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    padding: 10px;
+}
+
+.grid img {
+    padding: 20px;
+    font-size: 30px;
+    text-align: center;
+}
+
+a .upload {
+    position: absolute;
+    top: 85px;
+    left: 15px;
+    height: 100px;
+    width: 100px;
+}
+
+a .upload {
+    background-image: url("img/uploadlight.png");
+}
+
+.dark-mode a .upload {
+    background-image: url("img/uploaddark.png");
+}
